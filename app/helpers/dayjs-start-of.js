@@ -1,1 +1,1 @@
-export { default, dayjsStartOf } from 'ember-dayjs-helpers/helpers/dayjs-start-of';
+export { default, default as dayjsStartOf } from 'ember-dayjs-helpers/helpers/dayjs-start-of';

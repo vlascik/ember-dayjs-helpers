@@ -1,1 +1,1 @@
-export { default, dayjsFormat } from 'ember-dayjs-helpers/helpers/dayjs-format';
+export { default, default as dayjsFormat } from 'ember-dayjs-helpers/helpers/dayjs-format';

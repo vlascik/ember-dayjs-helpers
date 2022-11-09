@@ -1,1 +1,1 @@
-export { default, dayjsEndOf } from 'ember-dayjs-helpers/helpers/dayjs-end-of';
+export { default, default as dayjsEndOf } from 'ember-dayjs-helpers/helpers/dayjs-end-of';

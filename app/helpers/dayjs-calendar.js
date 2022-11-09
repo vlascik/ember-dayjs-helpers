@@ -1,1 +1,1 @@
-export { default, dayjsCalendar } from 'ember-dayjs-helpers/helpers/dayjs-calendar';
+export { default, default as dayjsCalendar } from 'ember-dayjs-helpers/helpers/dayjs-calendar';
